@@ -1,2 +1,3 @@
 # PACMAN
-Java-Game 
+Java-Game.
+Building a pacman game using data structure 'Array'.
